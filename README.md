@@ -1,3 +1,3 @@
 # New Project
  This project is created from local system
- Created by Priyanshu Singh 
+ Created by Priyanshu Singh.
